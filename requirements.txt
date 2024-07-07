@@ -4,5 +4,6 @@ streamlit   ##通过流创建API
 python-dotenv ##可以将.env 文件作为环境变量
 PyPDF2
 langchain_community ##langchain更新后，有一些改变。
+langchain-openai ##langchain引入openai的方式
 
 -e .

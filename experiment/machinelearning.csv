@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+Who coined the term machine learning in 1959?,a:Donald Hebb | b:Tom M. Mitchell | c:Arthur Samuel | d:Warren McCulloch,c
+What was the name of the experimental 'learning machine' developed by Raytheon Company in the early 1960s?,a:Cyberdyne | b:Cybertron | c:Robotech | d:Skynet,b
+Who proposed the early mathematical models of neural networks to come up with algorithms that mirror human thought processes?,a:Walter Pitts | b:Tom M. Mitchell | c:Donald Hebb | d:Arthur Samuel,a
+What is the objective of modern-day machine learning related to classifying data?,a:To predict future outcomes | b:To make decisions for the user | c:To classify data based on developed models | d:To analyze historical data,c
+"According to Tom M. Mitchell, when is a computer program said to learn from experience?",a:When its performance remains the same | b:When it has a lot of data | c:When its performance at tasks improves with experience | d:When it is only used for prediction,c
